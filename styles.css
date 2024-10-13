@@ -1,0 +1,9 @@
+body {
+    background-color: #7ac4e2;
+}
+#avion {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    transition: transform 0.2s;
+}
